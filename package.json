@@ -29,5 +29,6 @@
   ],
   "devDependencies": {
     "gh-pages": "^2.2.0"
-  }
+  },
+  "homepage" : "http://buchenko.github.io/reactwarriors-movies-db"
 }
